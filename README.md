@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
 <h3 align="center">An enthusiast web and embedded developer from Madagascar</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevin8283" alt="kevin8283" /></a> </p>
-
 - 📫 How to reach me **kevinrambalason1@gmail.com**
 
 - ⚡ Fun fact **Avid AI enjoyer & casual weight lifter**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
